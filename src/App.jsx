@@ -5,6 +5,8 @@ import Banner2 from './Component/Banner2'
 import Logos from './Component/Logos'
 import Services from './Component/Services'
 import Footer1 from './Component/Footer1'
+import ScrollButtons from './Component/ScrollButtons'
+
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Logos />
       <Services />
       <Footer1 />
+      <ScrollButtons />
+      
       </div>
     </>
   )

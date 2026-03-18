@@ -3,6 +3,7 @@ import React from 'react'
 function Services() {
   return (
     <>
+    <section id="services" className='scroll-mt-24'>
       <div>
         <div className=' text-2xl text-center bg-black  text-emerald-400 w-full p-2 mt-15 mb-5'>
         <p >Our Store Services provide a wide range of solutions to meet your needs.</p>
@@ -159,6 +160,7 @@ function Services() {
         </div>
         </div>
       </div>
+      </section>
     </>
   )
 }
