@@ -76,7 +76,7 @@ function Navbar() {
           <button
             onClick={() =>
               window.open(
-                "https://wa.me/918708413226?text=Hello%20I%20am%20interested%20in%20your%20services",
+                "https://wa.me/91?text=Hello%20I%20am%20interested%20in%20your%20services",
                 "_blank"
               )
             }
